@@ -21,6 +21,7 @@ consts = {
     "x86_64": { "NONE": 0, "READ": 2, "WRITE": 1, "SIZEBITS": 14, "DIRBITS": 2},
     "arm": { "NONE": 0, "READ": 2, "WRITE": 1, "SIZEBITS": 14, "DIRBITS": 2},
     "aarch64": { "NONE": 0, "READ": 2, "WRITE": 1, "SIZEBITS": 14, "DIRBITS": 2},
+    "riscv64": { "NONE": 0, "READ": 2, "WRITE": 1, "SIZEBITS": 14, "DIRBITS": 2},
 }
 
 ioc_consts = {
